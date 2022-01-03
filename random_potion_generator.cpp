@@ -7,11 +7,14 @@
 
 /*
 We create a vector for every property of the potion and load it with values.
-For each potion a trely random, uniformally distributed number is generated
+For each potion a pseudo-random number, uniformally distributed number is generated
 for every property. The number determines position in the property vector, that
 we will take the property from. The end result being that a uniformally
 distributed property is taken from the list of all properties.
 End a uniformally random potion is created.
+
+The numbers are psuedo-random but seeded with truly random numbers. Using the common
+Mersenne Prime generator from the standard c++ library. See code lines: 101, 102.
 */
 int main(int argc, char** argv)
 {
