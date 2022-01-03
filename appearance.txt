@@ -1,0 +1,20 @@
+Clear
+Blue
+Green
+Red
+Pale Green
+Pink
+Light Blue
+White
+Black
+Dark Grey
+Light grey
+Yellow
+Orange
+Gold
+Orange
+Bronze
+Metallic
+Purple
+Brown
+Dark Red

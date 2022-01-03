@@ -1,0 +1,6 @@
+Lesser -- 1d4 + 1.
+Common -- 2d4 + 2.
+Greater -- 4d4 + 4.
+Mighty -- 6d4 + 6.
+Superior -- 8d4 + 8.
+Supreme -- 10d4 + 20.

@@ -1,0 +1,6 @@
+Crude -- 8d4 + 8.
+Simple -- 6d4 + 6.
+Refined -- 4d4 + 4.
+Pure -- 2d4 + 2.
+Exquisite -- 1d4 + 1.
+Perfect.
